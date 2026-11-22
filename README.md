@@ -1,4 +1,4 @@
-# Mortgage PD model
+# Pocket Credit Risk Models: Mortgage PD model
 
 This is my small end-to-end probability of default project using Freddie Mac single-family loan-level data. It starts with a WoE logistic scorecard and then tests an XGBoost challenger. I kept the same loan splits and the same later cohort for both models. Their inputs differ: the scorecard uses 7 selected fields and XGBoost uses all 13 origination fields.
 
