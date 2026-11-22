@@ -1,0 +1,6 @@
+data/
+pocket1_model/
+*.parquet
+*.joblib
+*.txt
+.env
